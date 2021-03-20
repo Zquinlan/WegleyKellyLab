@@ -1,23 +1,25 @@
 content:
 - title: About
-  url: /docs/about/
+  url: _pages/about/
 - title: Lab Memebers
-  url: /docs/labMembers/
-- title: Photos
-  url: docs/photos/
+  url: _pages/labMembers/
+- title: Mo'orea Photos
+  url: _pages/photos/moorea/
+- title: Curaçao Photos
+  url: _pages/photos/curacao/
 - title: Papers
-  url: /docs/papers/
+  url: _pages/papers/
 
 main:
 - title: About
-  url: /docs/about/
+  url: _pages/about/
 - title: Lab Memebers
-  url: /docs/labMembers/
+  url: _pages/labMembers/
 - title: Mo'orea Photos
-  url: docs/photos/Mo'orea
+  url: _pages/photos/moorea/
 - title: Curaçao Photos
-  url: docs/photos/curacao
+  url: _pages/photos/curacao/
 - title: Papers
-  url: /docs/papers/
+  url: _pages/papers/
 - title: Contact Us!
-  url: /docs/contact/
+  url: _pages/contact/

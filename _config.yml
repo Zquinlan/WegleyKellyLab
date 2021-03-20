@@ -11,7 +11,7 @@ analytics:
 atom_feed:
   hide: null
   path: null
-baseurl: null
+baseurl: /WegleyKellyLab
 bing_site_verification: null
 category_archive:
   path: /categories/
@@ -103,7 +103,6 @@ google_site_verification: null
 highlighter: rouge
 include:
 - .htaccess
-- _pages
 incremental: false
 keep_files:
 - .git
@@ -174,3 +173,7 @@ author:
     name : "Linda Wegley Kelly"
     bio : "Our fearless leader looking for her next dose of sugar"
     avatar : "/assets/images/fearlessLeader.jpg"
+collections:
+  pages:
+    output: true
+    permalink: /:path/

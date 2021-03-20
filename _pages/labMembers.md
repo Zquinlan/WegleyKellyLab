@@ -11,7 +11,7 @@ excerpt: >
 sidebar:
     nav: 'content'
 ---
-![image-left](/assets/images/zaq2020.jpg){: .align-left}
+![image-left]({{ site.baseurl }}/assets/images/zaq2020.jpg){: .align-left}
 # Zach Quinlan
  Hugger of rocks, kisser of coral. Moonlighting as a PhD student while mostly dirt bagging in the dessert to code. I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont.
 
@@ -22,6 +22,6 @@ sidebar:
 - [Curriculum Vitae](/_pages/cv/Quinlan_CV_Oct2019.pdf)
 
 
-![image-left](/assets/images/fearlessLeader.jpg){: .alight-left}
+![image-left]({{ site.baseurl }}/assets/images/fearlessLeader.jpg){: .alight-left}
 # Linda Wegley Kelly
 Our fearless leader always in search for her next dose of sugar.

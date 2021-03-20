@@ -20,7 +20,7 @@ sidebar:
 - [ResearchGate](https://www.researchgate.net/profile/zachary-quinlan)
 - [Github](https://github.com/zquinlan)
 - [OrcID](https://orcid.org/0000-0002-0351-8927)
-- [Curriculum Vitae]({site.baseurl}/_pages/cv/Quinlan_CV_Oct2019.pdf)
+- [Curriculum Vitae]({{site.baseurl}}/labMembers/cv/Quinlan_CV.pdf)
 
 
 ![image-left]({{site.baseurl}}/assets/images/fearlessLeader.jpg){: .alight-left}

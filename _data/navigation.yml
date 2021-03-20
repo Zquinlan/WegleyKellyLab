@@ -1,0 +1,23 @@
+content:
+- title: About
+  url: /docs/about/
+- title: Lab Memebers
+  url: /docs/labMembers/
+- title: Photos
+  url: docs/photos/
+- title: Papers
+  url: /docs/papers/
+
+main:
+- title: About
+  url: /docs/about/
+- title: Lab Memebers
+  url: /docs/labMembers/
+- title: Mo'orea Photos
+  url: docs/photos/Mo'orea
+- title: Curaçao Photos
+  url: docs/photos/curacao
+- title: Papers
+  url: /docs/papers/
+- title: Contact Us!
+  url: /docs/contact/

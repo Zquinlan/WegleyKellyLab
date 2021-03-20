@@ -28,7 +28,7 @@ feature_row:
     excerpt: "See some of the photos from our research!"
     url: "/_pages/photos/moorea/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "See more"  
 ---
 
 {% include feature_row %}

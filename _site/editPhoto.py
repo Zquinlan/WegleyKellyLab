@@ -1,4 +1,10 @@
-import os
+#Make this work from command line
+import os, argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('currentDirectory', help='Github Directory')
+parser.add_argument('infile', help='File to parse')
+args = parser.parse_args()
 
 class editPhotoAlbum():
     def __init__(self, args):

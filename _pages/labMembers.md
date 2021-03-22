@@ -12,6 +12,7 @@ sidebar:
     nav: 'content'
 ---
 # Students
+
 ![image-left]({{site.baseurl}}/assets/images/zaq2020.jpg){: .align-left}
 ## Zach Quinlan
 ### 3rd year PhD Student
@@ -49,6 +50,7 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 - [Curriculum Vitae]({{site.baseurl}}/labMembers/cv/) -->
 
 # Our Fearless Leader :)
+
 ![image-left]({{site.baseurl}}/assets/images/fearlessLeader.jpg){: .alight-left}
 ## Linda Wegley Kelly
 Always in search of her next dose of sugar.

@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Labmembers",
-        "excerpt":"Zach Quinlan Hugger of rocks, kisser of coral. Moonlighting as a PhD student while mostly dirt bagging in the dessert to code. I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. Email Twitter ResearchGate Github OrcID Curriculum...","categories": [],
+        "excerpt":"Students Zach Quinlan 3rd year PhD Student I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry community to pursue greater insights into how chemical ecology...","categories": [],
         "tags": [],
         "url": "/labMembers/",
         "teaser": null

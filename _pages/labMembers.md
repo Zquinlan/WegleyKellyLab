@@ -12,18 +12,16 @@ sidebar:
     nav: 'content'
 ---
 # Students
+*****  
 
 ![image-left]({{site.baseurl}}/assets/images/zaq2020.jpg){: .align-left}
 ## Zach Quinlan
 ### 3rd year PhD Student
 I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry community to pursue greater insights into how chemical ecology can help with coral reef mamangement and restoration.
 
-- [Email](mailto:zquinlan@gmail.com)
-- [Twitter](https://www.twitter.com/zquinlan)
-- [ResearchGate](https://www.researchgate.net/profile/zachary-quinlan)
-- [Github](https://github.com/zquinlan)
-- [OrcID](https://orcid.org/0000-0002-0351-8927)
-- [Curriculum Vitae]({{site.baseurl}}/labMembers/cv/Quinlan_CV.pdf)
+[<i class="far fa-envelope"></i> Email](mailto:zquinlan@gmail.com)    [<span style="color:#1DA1F2"><i class="fab fa-twitter"></i></span> Twitter](https://www.twitter.com/zquinlan) 
+[<span style="color:#5CC9BB"><i class="fab fa-researchgate"></i></span> ResearchGate](https://www.researchgate.net/profile/zachary-quinlan)  [<span style="color:black"><i class="fab fa-github"></i></span> Github](https://github.com/zquinlan) 
+[<span style="color:#AECD54"><i class="fab fa-orcid"></i></span> OrcID](https://orcid.org/0000-0002-0351-8927) [<i class="far fa-file-pdf"></i> Curriculum Vitae]({{site.baseurl}}/labMembers/cv/Quinlan_CV.pdf)  
 
 <!-- ![image-left]({{site.baseurl}}/assets/images/emily2021.jpg){: .align-left}
 ## Emily Nixon
@@ -49,9 +47,17 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 - [OrcID](https://orcid.org/)
 - [Curriculum Vitae]({{site.baseurl}}/labMembers/cv/) -->
 
-# Our Fearless Leader :)
+<br />
+<br />
+<br />
+<br />
+
+
+
+# Our Fearless Leader:
+*****  
 
 ![image-left]({{site.baseurl}}/assets/images/fearlessLeader.jpg){: .alight-left}
 ## Linda Wegley Kelly
-Always in search of her next dose of sugar.
-- [Email](mailto:lwegley@ucsd.edu)
+Always in search of her next dose of sugar.  
+[<i class="far fa-envelope"></i> Email](mailto:lwegley@ucsd.edu)

@@ -15,11 +15,12 @@ main:
   url: "/about/"
 - title: Lab Memebers
   url: "/labMembers/"
+- title: Join the Lab!
+  url: "/contact/"  
 - title: Mo'orea Photos
   url: "/photos/moorea/"
 - title: Curaçao Photos
   url: "/photos/curacao/"
 - title: Papers
   url: "/papers/"
-- title: Contact Us!
-  url: "/contact/"
+

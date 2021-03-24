@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 classes: wide
 
 title: "Lab Members" 
@@ -17,8 +17,7 @@ sidebar:
 
 ![image-left]({{site.baseurl}}/assets/images/zaq2020.jpg){: .align-left}
 ## Zach Quinlan
-### NSF GRFP scholar
-### 3rd year PhD student
+### NSF GRFP scholar -- 3rd year PhD student
 I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry community to pursue greater insights into how chemical ecology can help with coral reef mamangement and restoration.
 
 
@@ -28,7 +27,7 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 <a href="https://www.researchgate.net/profile/zachary-quinlan"><i class="fab fa-researchgate" style="color:#5CC9BB"></i> ResearchGate</a>  
 <a href="https://github.com/zquinlan"><i class="fab fa-github" style="color:black"></i> Github</a> 
 <a href="https://orcid.org/0000-0002-0351-8927"><i class="fab fa-orcid" style="color:#AECD54"></i> OrcID</a> 
-<a href="{{site.baseurl}}/labMembers/cv/Quinlan_CV.pdf"><i class="far fa-file-pdf"></i> CV</a> 
+<a href="{{site.baseurl}}/labMembers/cv/Quinlan_CV.pdf"><i class="far fa-file-pdf"></i> CV</a>  
 
 
 <!-- <br />
@@ -60,6 +59,10 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 <a href="https://orcid.org/"><i class="fab fa-orcid" style="color:#AECD54"></i> OrcID</a> 
 <a href="{{site.baseurl}}/labMembers/cv/.pdf"><i class="far fa-file-pdf"></i> CV</a>  -->
 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />

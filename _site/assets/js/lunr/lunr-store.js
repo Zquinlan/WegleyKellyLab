@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Lab Members",
-        "excerpt":"Students Zach Quinlan NSF GRFP scholar 3rd year PhD student I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry community to pursue greater insights into...","categories": [],
+        "excerpt":"Students Zach Quinlan NSF GRFP scholar – 3rd year PhD student I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry community to pursue greater insights...","categories": [],
         "tags": [],
         "url": "/labMembers/",
         "teaser": null

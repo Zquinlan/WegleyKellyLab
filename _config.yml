@@ -11,7 +11,7 @@ analytics:
 atom_feed:
   hide: null
   path: null
-baseurl: null
+baseurl: ""
 bing_site_verification: null
 category_archive:
   path: /categories/
@@ -138,8 +138,8 @@ plugins:
 reCaptcha:
   secret: null
   siteKey: null
-repository: /Users/zacharyquinlan/Documents/GitHub/WegleyKellyLab
-url: https://wegleykellylab.github.io
+repository: github.com/zquinlan/wegleykellylab
+url: wegleykellylab.org
 sass:
   sass_dir: _sass
   style: compressed

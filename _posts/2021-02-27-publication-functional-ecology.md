@@ -1,0 +1,18 @@
+---
+title: "Zach was published in Functional Ecology!"
+
+tags:
+- publication
+
+---
+# [Differential resistance and acclimation of two coral species to chronic nutrient enrichment reflect life history traits](https://doi.org/10.1111/1365-2435.13780)
+## Michael D. Fox, Craig E. Nelson,  Thomas A. Oliver,  Zachary A. Quinlan,  Kristina Remple,  Jess Glanz,  Jennifer E. Smith,  Hollie M. Putnam
+
+
+### Abstract:
+1. The effects of nutrient pollution on coral reef ecosystems are multifaceted. Numerous experiments have sought to identify the physiological effects of nutrient enrichment on reef‐building corals, but the results have been variable and sensitive to choices of nutrient quantity, chemical composition and exposure duration.
+2. To test the effects of chronic, ecologically relevant nutrient enrichment on coral growth and photophysiology, we conducted a 5‐week continuous dosing experiment on two Hawaiian coral species, Porites compressa and Pocillopora acuta. We acclimated coral fragments to five nutrient concentrations (0.1–7 µM urn:x-wiley:02698463:media:fec13780:fec13780-math-0001 and 0.06–2.24 µM urn:x-wiley:02698463:media:fec13780:fec13780-math-0002) with constant stoichiometry 2.5:1 nitrate to phosphate) bracketing in situ observations from reefs throughout the Pacific.
+3. Nutrient enrichment linearly increased photophysiological performance of both species within 3 weeks. The effect of nutrients on P. acuta photochemical efficiency increased through time while a consistent response in P. compressa indicated acclimation to elevated nutrients within 5 weeks. Endosymbiont densities and total chlorophyll concentrations also increased proportionally with nutrient enrichment in P. acuta, but not in P. compressa, revealing contrasting patterns of host–symbiont acclimatization.
+4. The two species also exhibited contrasting effects of nutrient enrichment on skeletal growth. Calcification was enhanced at low nutrient enrichment (1 µM urn:x-wiley:02698463:media:fec13780:fec13780-math-0003) in P. acuta, but comparable to the control at higher concentrations, whereas calcification was reduced in P. compressa (30%–35%) above 3 µM urn:x-wiley:02698463:media:fec13780:fec13780-math-0004.
+5. Stable isotope analysis revealed species‐specific nitrogen uptake dynamics in the coral–algal symbiosis. The endosymbionts of P. acuta exhibited increased nitrogen uptake (decreased δ15N) and incorporation (19%–31% decrease in C:N ratios) across treatments. In contrast, P. compressa endosymbionts maintained constant δ15N values and low levels of nitrogen incorporation (9%–11% decrease in C:N ratios). The inability of P. acuta to regulate endosymbiont nutrient uptake may indicate an emerging destabilization in the coral–algal symbiosis under nutrient enrichment that could compromise resistance to additional environmental stressors.
+6. Our results highlight species‐specific differences in the coral–algal symbiosis, which influence responses to chronic nutrient enrichment. These findings showcase how symbioses can vary among closely related taxa and underscore the importance of considering how life‐history traits modify species response to environmental change.

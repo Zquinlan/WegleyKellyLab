@@ -36,8 +36,14 @@ var store = [{
         "teaser": null
       },{
         "title": "The Wegley Kelly Lab join Scripps Institution of Oceanography!",
-        "excerpt":"The Wegley Kelly lab is joining SIO! &lt;/br&gt; We are extremely excited to being joining the Scripps marine biology program! Our lab specializes in multi-omic analyses to understand coral reef dynamics and we are extatic to both continue our collaborations at SIO and also form many new ones. &lt;/br&gt; &lt;/br&gt;...","categories": [],
+        "excerpt":"The Wegley Kelly lab is joining SIO! We are extremely excited to being joining the Scripps marine biology program! Our lab specializes in multi-omic analyses to understand coral reef dynamics and we are extatic to both continue our collaborations at SIO and also form many new ones. We cannot wait...","categories": [],
         "tags": ["general"],
         "url": "/Joining-SIO/",
+        "teaser": null
+      },{
+        "title": "Zach was published in Functional Ecology!",
+        "excerpt":"Differential resistance and acclimation of two coral species to chronic nutrient enrichment reflect life history traits Michael D. Fox, Craig E. Nelson, Thomas A. Oliver, Zachary A. Quinlan, Kristina Remple, Jess Glanz, Jennifer E. Smith, Hollie M. Putnam Abstract: The effects of nutrient pollution on coral reef ecosystems are multifaceted....","categories": [],
+        "tags": ["publication"],
+        "url": "/publication-functional-ecology/",
         "teaser": null
       }]

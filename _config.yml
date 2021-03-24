@@ -11,11 +11,7 @@ analytics:
 atom_feed:
   hide: null
   path: null
-<<<<<<< HEAD
-baseurl: 
-=======
 baseurl: ""
->>>>>>> 64eea1d4170d16232cc7979b4c9fcae73841bb98
 bing_site_verification: null
 category_archive:
   path: /categories/

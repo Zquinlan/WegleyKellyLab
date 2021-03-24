@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/about.jpg
 excerpt: >
-  What are we REALLY stoked on? <br />
+  What are we REALLY stoked on? <br /><br /><br /><br />
 
 classes: wide 
 sidebar:

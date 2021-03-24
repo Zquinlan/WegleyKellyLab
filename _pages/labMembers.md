@@ -7,21 +7,26 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/about.jpg
 excerpt: >
-  Our lab <br /><br />
+  Our lab <br /><br /><br /><br />
 
 sidebar:
     nav: 'content'
 
-feature_row2:
+feature_row:
   - image_path: /assets/images/join.jpg
     alt: "join"
-    title: "Join the lab!"
+    url: "/labMembers/#students"
+    title: "Current Members"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/join.jpg
+    alt: "join"
     url: "/joinUs/"
+    title:  "Join the Lab"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
-{% include feature_row id="feature_row2" type="center" %}
-<br />
+{% include feature_row%}
 
 # Students
 *****  

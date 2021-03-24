@@ -10,7 +10,11 @@ content:
 # - title: Papers
 #   url: "/papers/"
 - title: Research
-  url: "/research/"
+  children:
+    - title: Projects
+      url: "/projects/"
+    - title: Publications
+      url: "/publications"
 - title: Lab News 
   url: "/archive/"
 - title: Photos
@@ -29,7 +33,7 @@ main:
 # - title: Papers
 #   url: "/papers/"
 - title: Research
-  url: "/research/"
+  url: "/projects/"
 - title: Lab News 
   url: "/archive/"
 - title: Mo'orea Photos

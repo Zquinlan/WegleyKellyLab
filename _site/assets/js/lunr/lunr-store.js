@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Lab Members",
-        "excerpt":"Join the lab! Learn more Students Zach Quinlan NSF GRFP scholar – 3rd year PhD student I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry...","categories": [],
+        "excerpt":"Current Members Learn more Join the Lab Learn more Students Zach Quinlan NSF GRFP scholar – 3rd year PhD student I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations...","categories": [],
         "tags": [],
         "url": "/labMembers/",
         "teaser": null
@@ -33,6 +33,18 @@ var store = [{
         "excerpt":"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ","categories": [],
         "tags": [],
         "url": "/photos/moorea/",
+        "teaser": null
+      },{
+        "title": "Current Projects",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/projects/",
+        "teaser": null
+      },{
+        "title": "Publications",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/",
         "teaser": null
       },{
         "title": "The Wegley Kelly Lab join Scripps Institution of Oceanography!",

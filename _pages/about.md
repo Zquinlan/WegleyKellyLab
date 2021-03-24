@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 
 header:
   overlay_color: "#5e616c"
@@ -10,6 +10,7 @@ excerpt: >
 classes: wide 
 sidebar:
   nav: "content" 
+
 ---
 
 # Who are we as a lab?

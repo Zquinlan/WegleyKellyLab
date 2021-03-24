@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
+title: "Archive of lab related news"
 <!-- permalink: /year-archive/ -->
 layout: posts
-author_profile: true
+author_profile: false
 ---

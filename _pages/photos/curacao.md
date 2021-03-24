@@ -1,8 +1,6 @@
 ---
 layout: splash
 
-overlay_color: "#5e616c"
-
 gallery:
  - image_path: /photos/curacao/IMG_7849 2.jpg
  - image_path: /photos/curacao/IMG_7854 4.jpg

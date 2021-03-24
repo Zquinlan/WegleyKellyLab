@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Coral_blue_tiny_fish_1.jpg
 excerpt: >
-  Characterizing the micro members within coral reef ecosystems: Investigation of chemical and microbial diversity to understand shifting reef ecosystems.<br />
+  Characterizing the micro members within coral reef ecosystems: Investigation of chemical and microbial diversity to understand shifting reef ecosystems.<br /><br /><br />
 
 feature_row:
   - image_path: /assets/images/about.jpg

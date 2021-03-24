@@ -143,7 +143,7 @@ url: wegleykellylab.org
 sass:
   sass_dir: _sass
   style: compressed
-search: null
+search: true
 search_full_content: null
 search_provider: null
 social:

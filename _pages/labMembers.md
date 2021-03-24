@@ -7,11 +7,22 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/about.jpg
 excerpt: >
-  Current Members of the lab <br />
+  Our lab <br /><br />
 
 sidebar:
     nav: 'content'
+
+feature_row2:
+  - image_path: /assets/images/join.jpg
+    alt: "join"
+    title: "Join the lab!"
+    url: "/joinUs/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
+{% include feature_row id="feature_row2" type="center" %}
+<br />
+
 # Students
 *****  
 
@@ -22,11 +33,11 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 
 
 <a href="mailto:zquinlan@gmail.com"><i class='far fa-envelope'></i> Email</a> 
-<a href="https://scholar.google.com/citations?hl=en&user=JWgTkFcAAAAJ"><i class="fab fa-google" style="color:black"></i> Google Scholar</a>
-<a href="https://www.twitter.com/zquinlan"><i class='fab fa-twitter' stlye="color:#1DA1F2"></i> Twitter</a> 
+<a href="https://scholar.google.com/citations?hl=en&user=JWgTkFcAAAAJ"><i class="fab fa-google" style="color:black"></i> Google Scholar</a>  
+<a href="https://www.twitter.com/zquinlan"><i class='fab fa-twitter' stlye="color:#1DA1F2"></i> Twitter</a>
 <a href="https://www.researchgate.net/profile/zachary-quinlan"><i class="fab fa-researchgate" style="color:#5CC9BB"></i> ResearchGate</a>  
 <a href="https://github.com/zquinlan"><i class="fab fa-github" style="color:black"></i> Github</a> 
-<a href="https://orcid.org/0000-0002-0351-8927"><i class="fab fa-orcid" style="color:#AECD54"></i> OrcID</a> 
+<a href="https://orcid.org/0000-0002-0351-8927"><i class="fab fa-orcid" style="color:#AECD54"></i> OrcID</a>   
 <a href="{{site.baseurl}}/labMembers/cv/Quinlan_CV.pdf"><i class="far fa-file-pdf"></i> CV</a>  
 
 
@@ -62,11 +73,7 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 

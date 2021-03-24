@@ -1,7 +1,5 @@
 ---
-layout: splash
-header: 
-overlay_color: "#5e616c"
+layout: splash 
 
 gallery:
  - image_path: /photos/moorea/GOPR0418.jpg

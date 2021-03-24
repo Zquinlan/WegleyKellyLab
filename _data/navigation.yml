@@ -3,16 +3,20 @@ content:
   url: "/about/"
 - title: Lab Members
   url: "/labMembers/"
-- title: Papers
-  url: "/papers/"
+- title: Join us!
+  url: "/joinUs/"
+# - title: Papers
+#   url: "/papers/"
 - title: Research
   url: "/research/"
-- title: Mo'orea Photos
-  url: "/photos/moorea/"
-- title: Curaçao Photos
-  url: "/photos/curacao/"
-- title: Lab news archive
+- title: Lab News 
   url: "/archive/"
+- title: Photos
+  children:
+    - title: Mo'orea Photos
+      url: "/photos/moorea/"
+    - title: Curaçao Photos
+      url: "/photos/curacao/"
 
 
 main:
@@ -20,15 +24,15 @@ main:
   url: "/about/"
 - title: Lab Members
   url: "/labMembers/"
-- title: Papers
-  url: "/papers/"
+# - title: Papers
+#   url: "/papers/"
 - title: Research
   url: "/research/"
+- title: Lab News 
+  url: "/archive/"
 - title: Mo'orea Photos
   url: "/photos/moorea/"
 - title: Curaçao Photos
   url: "/photos/curacao/"
-- title: Lab news archive
-  url: "/archive/"
 
 

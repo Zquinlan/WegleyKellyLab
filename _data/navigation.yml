@@ -1,10 +1,12 @@
 content:
-- title: About
-  url: "/about/"
-- title: Lab Members
-  url: "/labMembers/"
-- title: Join us!
-  url: "/joinUs/"
+- title: Get to know us
+  children:
+  - title: About
+    url: "/about/"
+  - title: Lab Members
+    url: "/labMembers/"
+  - title: Join us!
+    url: "/joinUs/"
 # - title: Papers
 #   url: "/papers/"
 - title: Research

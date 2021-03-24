@@ -1,4 +1,4 @@
-I"I
+I"E
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -16,13 +16,13 @@
             </li><li class="masthead__menu-item">
               <a href="/labMembers/">Lab Members</a>
             </li><li class="masthead__menu-item">
-              <a href="/contact/">Join the Lab!</a>
+              <a href="/papers/">Papers</a>
+            </li><li class="masthead__menu-item">
+              <a href="/research/">Research</a>
             </li><li class="masthead__menu-item">
               <a href="/photos/moorea/">Mo'orea Photos</a>
             </li><li class="masthead__menu-item">
               <a href="/photos/curacao/">Curaçao Photos</a>
-            </li><li class="masthead__menu-item">
-              <a href="/papers/">Papers</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">

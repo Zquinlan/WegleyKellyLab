@@ -5,7 +5,7 @@ var store = [{
         "url": "/about/",
         "teaser": null
       },{
-        "title": "Labmembers",
+        "title": "Lab Members",
         "excerpt":"Students Zach Quinlan 3rd year PhD Student I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry community to pursue greater insights into how chemical ecology...","categories": [],
         "tags": [],
         "url": "/labMembers/",

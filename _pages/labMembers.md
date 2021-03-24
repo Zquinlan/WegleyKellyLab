@@ -2,6 +2,7 @@
 layout: posts
 classes: wide
 
+title: "Lab Members" 
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/about.jpg
@@ -27,29 +28,33 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 <a href="https://orcid.org/0000-0002-0351-8927"><i class="fab fa-orcid" style="color:#AECD54"></i> OrcID</a> 
 <a href="{{site.baseurl}}/labMembers/cv/Quinlan_CV.pdf"><i class="far fa-file-pdf"></i> CV</a> 
 
-<!-- ![image-left]({{site.baseurl}}/assets/images/emily2021.jpg){: .align-left}
+<!-- <br />
+<br />
+![image-left]({{site.baseurl}}/assets/images/emily2021.jpg){: .align-left}
 ## Emily Nixon
 ### 1st year PhD Student
 
 
-- [Email](mailto:en.nix96@gmail.com)
-- [Twitter](https://www.twitter.com/)
-- [ResearchGate](https://www.researchgate.net/profile/)
-- [Github](https://github.com/)
-- [OrcID](https://orcid.org/)
-- [Curriculum Vitae]({{site.baseurl}}/labMembers/cv/)
+<a href="mailto:@gmail.com"><i class='far fa-envelope'></i> Email</a> 
+<a href="https://www.twitter.com/"><i class='fab fa-twitter' stlye="color:#1DA1F2"></i> Twitter</a> 
+<a href="https://www.researchgate.net/profile/"><i class="fab fa-researchgate" style="color:#5CC9BB"></i> ResearchGate</a>  
+<a href="https://github.com/"><i class="fab fa-github" style="color:black"></i> Github</a> 
+<a href="https://orcid.org/"><i class="fab fa-orcid" style="color:#AECD54"></i> OrcID</a> 
+<a href="{{site.baseurl}}/labMembers/cv/.pdf"><i class="far fa-file-pdf"></i> CV</a> 
 
+<br />
+<br />
 ![image-left]({{site.baseurl}}/assets/images/catherine2021.jpg){: .align-left}
 ## Catherine Mullenmeister
 ### 1st year PhD Student (Co-advised by Dr. Jen Smith)
 
 
-- [Email](mailto:camullenm@gmail.com)
-- [Twitter](https://www.twitter.com/)
-- [ResearchGate](https://www.researchgate.net/profile/)
-- [Github](https://github.com/)
-- [OrcID](https://orcid.org/)
-- [Curriculum Vitae]({{site.baseurl}}/labMembers/cv/) -->
+<a href="mailto:@gmail.com"><i class='far fa-envelope'></i> Email</a> 
+<a href="https://www.twitter.com/"><i class='fab fa-twitter' stlye="color:#1DA1F2"></i> Twitter</a> 
+<a href="https://www.researchgate.net/profile/"><i class="fab fa-researchgate" style="color:#5CC9BB"></i> ResearchGate</a>  
+<a href="https://github.com/"><i class="fab fa-github" style="color:black"></i> Github</a> 
+<a href="https://orcid.org/"><i class="fab fa-orcid" style="color:#AECD54"></i> OrcID</a> 
+<a href="{{site.baseurl}}/labMembers/cv/.pdf"><i class="far fa-file-pdf"></i> CV</a>  -->
 
 <br />
 <br />

@@ -1,7 +1,7 @@
 content:
 - title: About
   url: "/about/"
-- title: Lab Memebers
+- title: Lab Members
   url: "/labMembers/"
 - title: Mo'orea Photos
   url: "/photos/moorea/"
@@ -13,7 +13,7 @@ content:
 main:
 - title: About
   url: "/about/"
-- title: Lab Memebers
+- title: Lab Members
   url: "/labMembers/"
 - title: Join the Lab!
   url: "/contact/"  

@@ -11,6 +11,8 @@ content:
   url: "/photos/moorea/"
 - title: Curaçao Photos
   url: "/photos/curacao/"
+- title: Lab news archive
+  url: "/archive/"
 
 
 main:
@@ -26,5 +28,7 @@ main:
   url: "/photos/moorea/"
 - title: Curaçao Photos
   url: "/photos/curacao/"
+- title: Lab news archive
+  url: "/archive/"
 
 

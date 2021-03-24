@@ -1,4 +1,4 @@
-I"E
+I"Æ
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -23,6 +23,8 @@
               <a href="/photos/moorea/">Mo'orea Photos</a>
             </li><li class="masthead__menu-item">
               <a href="/photos/curacao/">Cura√ßao Photos</a>
+            </li><li class="masthead__menu-item">
+              <a href="/archive/">Lab news archive</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">

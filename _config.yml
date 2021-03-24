@@ -171,7 +171,7 @@ words_per_minute: 200
 yandex_site_verification: null
 author:
     name : "Linda Wegley Kelly"
-    bio : "Our fearless leader looking for her next dose of sugar"
+    bio : 
     avatar : "/assets/images/fearlessLeader.jpg"
 collections:
   pages:

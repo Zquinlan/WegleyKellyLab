@@ -117,7 +117,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   toc_levels: 1..6
 locale: en-US
-logo: assets/images/tempLogo.jpg
+logo: assets/images/logo.png
 lsi: false
 markdown: kramdown
 markdown_ext: markdown,mkdown,mkdn,mkd,md
@@ -150,7 +150,7 @@ social:
   links: null
   name: null
   type: null
-subtitle: "Scripps Institution for Oceanography"
+subtitle: null
 tag_archive:
   path: /tags/
   type: liquid

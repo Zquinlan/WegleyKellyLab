@@ -1,15 +1,15 @@
-I"Š
+I"?
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/"><img src="/assets/images/tempLogo.jpg" alt="Wegley Kelly Lab"></a>
+          <a class="site-logo" href="/"><img src="/assets/images/logo.png" alt="Wegley Kelly Lab"></a>
         
         <a class="site-title" href="/">
           Wegley Kelly Lab
-          <span class="site-subtitle">Scripps Institution for Oceanography</span>
+          
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/about/">About</a>

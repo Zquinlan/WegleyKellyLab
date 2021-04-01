@@ -1,5 +1,5 @@
 ---
-title: "Zach was published in Functional Ecology!"
+title: "Zach was published in Frontiers in Marine Science!"
 
 tags:
 - publication

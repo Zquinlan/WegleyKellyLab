@@ -59,7 +59,7 @@ var store = [{
         "url": "/publication-functional-ecology/",
         "teaser": null
       },{
-        "title": "Zach was published in Functional Ecology!",
+        "title": "Zach was published in Frontiers in Marine Science!",
         "excerpt":"Three-Dimensional Molecular Cartography of the Caribbean Reef-Building Coral Orbicella faveolata Mark Little1, Emma E. George, Milou G. I. Arts, Jade Shivak, Sean Benler,Joel Huckeba, Zachary A. Quinlan, Vittorio Boscaro, Benjamin Mueller,Ana Georgina Cobián Güemes10, Maria Isabel Rojas, Brandie White, Daniel Petras,Cynthia B. Silveira, Andreas F. Haas, Linda Wegley Kelly, Mark...","categories": [],
         "tags": ["publication"],
         "url": "/publication-Frontiers-in-Marine-Science/",

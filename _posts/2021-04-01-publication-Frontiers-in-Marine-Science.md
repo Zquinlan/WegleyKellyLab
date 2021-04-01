@@ -1,0 +1,13 @@
+---
+title: "Zach was published in Functional Ecology!"
+
+tags:
+- publication
+
+---
+# [Three-Dimensional Molecular Cartography of the Caribbean Reef-Building Coral Orbicella faveolata](https://doi.org/10.3389/fmars.2021.627724)
+## Mark Little1, Emma E. George, Milou G. I. Arts, Jade Shivak, Sean Benler,Joel Huckeba, Zachary A. Quinlan, Vittorio Boscaro, Benjamin Mueller,Ana Georgina Cobián Güemes10, Maria Isabel Rojas, Brandie White, Daniel Petras,Cynthia B. Silveira, Andreas F. Haas, Linda Wegley Kelly, Mark J. A. Vermeij,Robert A. Quinn, Patrick J. Keeling, Pieter C. Dorrestein, Forest Rohwer and Ty N. F. Roach
+
+
+### Abstract:
+All organisms host a diversity of associated viruses, bacteria, and protists, collectively defined as the holobiont. While scientific advancements have enhanced the understanding of the functional roles played by various components of the holobiont, there is a growing need to integrate multiple types of molecular data into spatially and temporally resolved frameworks. To that end, we mapped 16S and 18S rDNA metabarcoding, metatranscriptomics, and metabolomic data onto three-dimensional reconstructions of coral colonies to examine microbial diversity, microbial gene expression, and biochemistry on two colonies of the ecologically important, reef-building coral, Orbicella faveolata and their competitors (i.e., adjacent organisms interacting with the corals: fleshy algae, turf algae, hydrozoans, and other corals). Overall, no statistically significant spatial patterns were observed among the samples for any of the data types; instead, strong signatures of the macroorganismal hosts (e.g., coral, algae, hydrozoa) were detected, in the microbiome, the transcriptome, and the metabolome. The 16S rDNA analysis demonstrated higher abundance of Firmicutes in the coral microbiome than in its competitors. A single bacterial amplicon sequence variant from the genus Clostridium was found exclusively in all O. faveolata samples. In contrast to microbial taxa, a portion of the functionally annotated bacterial RNA transcripts (6.86%) and metabolites (1.95%) were ubiquitous in all coral and competitor samples. Machine learning analysis of microbial transcripts revealed elevated T7-like cyanophage-encoded photosystem II transcripts in O. faveolata samples, while sequences involved in bacterial cell division were elevated in turf algal and interface samples. Similar analysis of metabolites revealed that bacterial-produced antimicrobial and antifungal compounds were highly enriched in coral samples. This study provides insight into the spatial and biological patterning of the coral microbiome, transcriptome, and metabolome.

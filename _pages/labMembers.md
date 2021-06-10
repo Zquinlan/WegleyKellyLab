@@ -46,22 +46,17 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 <a href="{{site.baseurl}}/labMembers/cv/Quinlan_CV.pdf"><i class="far fa-file-pdf"></i> CV</a>  
 
 
-<!-- <br />
+<br />
 <br />
 ![image-left]({{site.baseurl}}/assets/images/emily2021.jpg){: .align-left}
 ## Emily Nixon
 ### 1st year PhD Student
+My research revolves around coral holobiont symbioses during early coral ontogeny. Specifically, I am interested in utilizing molecular techniques to study the role of microbial community assemblage on recruitment success, growth and survival. Currently, I work alongside restoration practitioners to study symbiont (Symbiodinium spp.) community shifting in juvenile corals and the potential of artificial symbiont inoculation for increasing post-settlement survivorship.
 
+<a href="mailto:en.nix96@gmail.com"><i class='far fa-envelope'></i> Email</a> 
+<a href="{{site.baseurl}}/labMembers/cv/Nixon_CV.docx"><i class="far fa-file-pdf"></i> CV</a>
 
-<a href="mailto:@gmail.com"><i class='far fa-envelope'></i> Email</a> 
-<a href="https://www.twitter.com/"><i class='fab fa-twitter' stlye="color:#1DA1F2"></i> Twitter</a> 
-<a href="https://www.researchgate.net/profile/"><i class="fab fa-researchgate" style="color:#5CC9BB"></i> ResearchGate</a>  
-<a href="https://github.com/"><i class="fab fa-github" style="color:black"></i> Github</a> 
-<a href="https://orcid.org/"><i class="fab fa-orcid" style="color:#AECD54"></i> OrcID</a> 
-<a href="{{site.baseurl}}/labMembers/cv/.pdf"><i class="far fa-file-pdf"></i> CV</a> 
-<a href="https://scholar.google.com/"><i class="fab fa-google" style="color:black"></i> Google Scholar</a>
-
-<br />
+<!-- <br />
 <br />
 ![image-left]({{site.baseurl}}/assets/images/catherine2021.jpg){: .align-left}
 ## Catherine Mullenmeister

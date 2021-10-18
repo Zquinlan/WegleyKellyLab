@@ -64,4 +64,10 @@ var store = [{
         "tags": ["publication"],
         "url": "/publication-Frontiers-in-Marine-Science/",
         "teaser": null
+      },{
+        "title": "The Wegley Kelly lab grows!",
+        "excerpt":"The Wegley Kelly Lab is joined by four new students!  Graduate students: Catherine Mullenmeister, Emily Nixon, and Sabrina Sauri  Post-bac intern: Bibi Rensson  ","categories": [],
+        "tags": ["New members"],
+        "url": "/New-members2021/",
+        "teaser": null
       }]

@@ -56,6 +56,17 @@ My research revolves around coral holobiont symbioses during early coral ontogen
 <a href="mailto:en.nix96@gmail.com"><i class='far fa-envelope'></i> Email</a> 
 <a href="{{site.baseurl}}/labMembers/cv/Nixon_CV.docx"><i class="far fa-file-pdf"></i> CV</a>
 
+<br />
+<br />
+![image-left]({{site.baseurl}}/assets/images/bibi2021.jpg){: .align-left}
+## Bibi Renssen
+### Post-bac research intern
+I graduated in May 2021 from the University of San Diego with a B.A. in Environmental and Ocean Sciences with an emphasis on Marine Ecology. I am currently a post-bacc intern in Kelly’s lab, assisting in collecting, processing, and analyzing samples from diverse marine ecosystems to help research and better understand their microbial community dynamics. I am particularly fascinated in coral reproduction and larval settlement, and aim to better understand what external factors accrue to the survival and success of these organisms during this pivotal growth time.
+
+<a href="mailto:bb.renssen@gmail.com"><i class='far fa-envelope'></i> Email</a> 
+<a href="{{site.baseurl}}/labMembers/cv/bibi_cv.pdf"><i class="far fa-file-pdf"></i> CV</a>
+
+
 <!-- <br />
 <br />
 ![image-left]({{site.baseurl}}/assets/images/catherine2021.jpg){: .align-left}

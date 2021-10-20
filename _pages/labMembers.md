@@ -31,7 +31,7 @@ feature_row:
 # Students
 *****  
 
-![image-left]({{site.baseurl}}/assets/images/zaq2020.jpg){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/zaq2020.jpg){: .align-left width='500'}
 ## Zach Quinlan
 ### NSF GRFP scholar -- 4th year PhD student
 I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry community to pursue greater insights into how chemical ecology can help with coral reef mamangement and restoration.
@@ -48,7 +48,7 @@ I am extremely fascinated by coral exometabolomes and the hidden insights they c
 
 <br />
 <br />
-![image-left]({{site.baseurl}}/assets/images/emily2021.jpg){: .align-left}
+![image-left]({{site.baseurl}}/assets/images/emily2021.jpg){: .align-left width='500'}
 ## Emily Nixon
 ### 1st year PhD Student
 My research revolves around coral holobiont symbioses during early coral ontogeny. Specifically, I am interested in utilizing molecular techniques to study the role of microbial community assemblage on recruitment success, growth and survival. Currently, I work alongside restoration practitioners to study symbiont (Symbiodinium spp.) community shifting in juvenile corals and the potential of artificial symbiont inoculation for increasing post-settlement survivorship.
@@ -58,7 +58,7 @@ My research revolves around coral holobiont symbioses during early coral ontogen
 
 <br />
 <br />
-![image-left]({{site.baseurl}}/assets/images/bibi2021.png){: .align-left}{: width = '250'}
+![image-left]({{site.baseurl}}/assets/images/bibi2021.png){: .align-left width='500'}
 ## Bibi Renssen
 ### Post-bac research intern
 I graduated in May 2021 from the University of San Diego with a B.A. in Environmental and Ocean Sciences with an emphasis on Marine Ecology. I am currently a post-bacc intern in Kelly’s lab, assisting in collecting, processing, and analyzing samples from diverse marine ecosystems to help research and better understand their microbial community dynamics. I am particularly fascinated in coral reproduction and larval settlement, and aim to better understand what external factors accrue to the survival and success of these organisms during this pivotal growth time.
@@ -91,7 +91,7 @@ I graduated in May 2021 from the University of San Diego with a B.A. in Environm
 # Our Fearless Leader:
 *****  
 
-![image-left]({{site.baseurl}}/assets/images/fearlessLeader.jpg){: .alight-left}
+![image-left]({{site.baseurl}}/assets/images/fearlessLeader.jpg){: .alight-left width='500'}
 ## Linda Wegley Kelly
 Always in search of her next dose of sugar.  
 <a href="mailto:lwegley@ucsd.edu"><i class='far fa-envelope'></i> Email</a> 

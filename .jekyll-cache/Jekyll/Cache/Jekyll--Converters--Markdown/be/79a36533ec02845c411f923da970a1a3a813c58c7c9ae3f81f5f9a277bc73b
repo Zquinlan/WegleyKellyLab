@@ -1,4 +1,4 @@
-I"Ê
+I"ú
 <div class="feature__wrapper">
 
   
@@ -54,7 +54,7 @@
 <h1 id="students">Students</h1>
 <hr />
 
-<p><img src="/assets/images/zaq2020.jpg" alt="image-left" class="align-left" /></p>
+<p><img src="/assets/images/zaq2020.jpg" alt="image-left" class="align-left" width="500" /></p>
 <h2 id="zach-quinlan">Zach Quinlan</h2>
 <h3 id="nsf-grfp-scholar--4th-year-phd-student">NSF GRFP scholar â€“ 4th year PhD student</h3>
 <p>I am extremely fascinated by coral exometabolomes and the hidden insights they can give us into the functioning of the coral holobiont. I am currently trying to leverage our collaborations with the mass spectrometry community to pursue greater insights into how chemical ecology can help with coral reef mamangement and restoration.</p>
@@ -69,7 +69,7 @@
 
 <p><br />
 <br />
-<img src="/assets/images/emily2021.jpg" alt="image-left" class="align-left" /></p>
+<img src="/assets/images/emily2021.jpg" alt="image-left" class="align-left" width="500" /></p>
 <h2 id="emily-nixon">Emily Nixon</h2>
 <h3 id="1st-year-phd-student">1st year PhD Student</h3>
 <p>My research revolves around coral holobiont symbioses during early coral ontogeny. Specifically, I am interested in utilizing molecular techniques to study the role of microbial community assemblage on recruitment success, growth and survival. Currently, I work alongside restoration practitioners to study symbiont (Symbiodinium spp.) community shifting in juvenile corals and the potential of artificial symbiont inoculation for increasing post-settlement survivorship.</p>
@@ -79,7 +79,7 @@
 
 <p><br />
 <br />
-<img src="/assets/images/bibi2021.png" alt="image-left" class="align-left" /></p>
+<img src="/assets/images/bibi2021.png" alt="image-left" class="align-left" width="500" /></p>
 <h2 id="bibi-renssen">Bibi Renssen</h2>
 <h3 id="post-bac-research-intern">Post-bac research intern</h3>
 <p>I graduated in May 2021 from the University of San Diego with a B.A. in Environmental and Ocean Sciences with an emphasis on Marine Ecology. I am currently a post-bacc intern in Kellyâ€™s lab, assisting in collecting, processing, and analyzing samples from diverse marine ecosystems to help research and better understand their microbial community dynamics. I am particularly fascinated in coral reproduction and larval settlement, and aim to better understand what external factors accrue to the survival and success of these organisms during this pivotal growth time.</p>
@@ -108,7 +108,7 @@
 <h1 id="our-fearless-leader">Our Fearless Leader:</h1>
 <hr />
 
-<p><img src="/assets/images/fearlessLeader.jpg" alt="image-left" class="alight-left" /></p>
+<p><img src="/assets/images/fearlessLeader.jpg" alt="image-left" class="alight-left" width="500" /></p>
 <h2 id="linda-wegley-kelly">Linda Wegley Kelly</h2>
 <p>Always in search of her next dose of sugar.<br />
 <a href="mailto:lwegley@ucsd.edu"><i class="far fa-envelope"></i> Email</a></p>

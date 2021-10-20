@@ -92,6 +92,6 @@ I graduated in May 2021 from the University of San Diego with a B.A. in Environm
 *****  
 
 ![image-left]({{site.baseurl}}/assets/images/fearlessLeader.jpg){: .alight-left width='500'}
-## Linda Wegley Kelly
+## Linda Wegley Kelly, PhD
 Always in search of her next dose of sugar.  
 <a href="mailto:lwegley@ucsd.edu"><i class='far fa-envelope'></i> Email</a> 

@@ -58,6 +58,15 @@ My research revolves around coral holobiont symbioses during early coral ontogen
 
 <br />
 <br />
+![image-left]({{site.baseurl}}/assets/images/catherine2021.JPEG){: .align-left width='500'}
+## Catherine Mullenmeister
+### 1st year PhD Student
+Catherine graduated from UC San Diego in June 2020 with a double major in Marine Biology (B.S.) and Environmental Chemistry (B.S.) She is now a first year PhD student at Scripps Institution of Oceanography whose research involves characterizing interactions between coral, algae, and microbes on coral reef ecosystems. She is interested in analyzing how different classes of producers and their unique microbial communities change the dissolved organic matter pool through untargeted metabolomics. Through this work, Catherine hopes to connect these biological interactions with physical dynamics on coral reefs such as oxygen concentration, pH, and dissolved organic matter diversity that may influence benthic community structure.
+
+<a href="mailto:cmullenm@ucsd.edu"><i class='far fa-envelope'></i> Email</a> 
+<a href="{{site.baseurl}}/labMembers/cv/Mullenmeister_cv.pdf"><i class="far fa-file-pdf"></i> CV</a>
+<br />
+<br />
 ![image-left]({{site.baseurl}}/assets/images/bibi2021.png){: .align-left width='500'}
 ## Bibi Renssen
 ### Post-bac research intern

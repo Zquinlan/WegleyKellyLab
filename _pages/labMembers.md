@@ -67,6 +67,18 @@ Catherine graduated from UC San Diego in June 2020 with a double major in Marine
 <a href="{{site.baseurl}}/labMembers/cv/Mullenmeister_cv.pdf"><i class="far fa-file-pdf"></i> CV</a>
 <br />
 <br />
+
+
+![image-left]({{site.baseurl}}/assets/images/sabrina2021.jpg){: .align-left width='500'}
+## Sabrina Sauri
+### Masters student
+I graduated from UC San Diego with a BS in Molecular biology in Spring 2021. Currently, I am in the contiguous BS/MS program for Marine Biology here at Scripps where my project is focusing on the interactions of microbial communities between coral and turf algae during stress events like bleaching. Using molecular techniques I hope to learn how algae overgrowth on coral alters the distribution of bacterial communities and Symbiodinium spp. along the interface as well as throughout the coral holobiont.
+
+<a href="mailto:ssauri@ucsd.edu"><i class='far fa-envelope'></i> Email</a> 
+<a href="{{site.baseurl}}/labMembers/cv/sauri_cv.docx"><i class="far fa-file-pdf"></i> CV</a>
+<br />
+<br />
+
 ![image-left]({{site.baseurl}}/assets/images/bibi2021.png){: .align-left width='500'}
 ## Bibi Renssen
 ### Post-bac research intern

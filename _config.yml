@@ -139,7 +139,6 @@ reCaptcha:
   secret: null
   siteKey: null
 repository: github.com/zquinlan/wegleykellylab
-url: wegleykellylab.org
 sass:
   sass_dir: _sass
   style: compressed
